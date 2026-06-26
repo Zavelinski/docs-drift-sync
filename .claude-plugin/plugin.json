@@ -1,10 +1,16 @@
 {
   "name": "docs-drift-sync",
   "description": "Keeps docs in sync with changed code: maps changed symbols/flags/endpoints to their doc mentions, detects drift, proposes minimal edits.",
-  "version": "1.0.0",
-  "author": { "name": "Zavelinski" },
+  "version": "1.0.1",
+  "author": {
+    "name": "Zavelinski"
+  },
   "homepage": "https://github.com/Zavelinski/claude-code-docs-drift-sync",
   "repository": "https://github.com/Zavelinski/claude-code-docs-drift-sync",
   "license": "MIT",
-  "keywords": ["documentation","docs-as-code","drift"]
+  "keywords": [
+    "documentation",
+    "docs-as-code",
+    "drift"
+  ]
 }
