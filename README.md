@@ -74,3 +74,9 @@ bash uninstall.sh                                # Option 2 (or uninstall.ps1 on
 ## License
 
 MIT. See [LICENSE](LICENSE). Original work.
+
+---
+
+## Part of claude-code-skills
+
+This skill ships in the [claude-code-skills](https://zavelinski.github.io/claude-code-skills/) marketplace. Browse its landing page: [docs-drift-sync](https://zavelinski.github.io/claude-code-skills/docs-drift-sync.html). See also: [scheduled-sop-runner](https://github.com/Zavelinski/claude-code-scheduled-sop-runner), [geo-aeo-audit](https://github.com/Zavelinski/claude-code-geo-aeo-audit).
