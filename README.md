@@ -1,5 +1,10 @@
 # docs-drift-sync for Claude Code
 
+[![License: MIT](https://img.shields.io/github/license/Zavelinski/docs-drift-sync)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Zavelinski/docs-drift-sync?style=flat)](https://github.com/Zavelinski/docs-drift-sync/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Zavelinski/docs-drift-sync)](https://github.com/Zavelinski/docs-drift-sync/commits)
+[![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-8A2BE2)](https://claude.com/claude-code)
+
 A [Claude Code](https://claude.com/claude-code) skill that **keeps docs in sync with the code that changed**. When you change code, docs silently go stale — a renamed parameter, a removed flag, a changed signature, an example whose output no longer matches. This maps the changed surface in a diff to where the docs mention it, detects the drift, and proposes the **minimal** edits to fix it.
 
 It is drift detection + surgical fix — **not** a doc generator. It does not rewrite sections that didn't drift.
